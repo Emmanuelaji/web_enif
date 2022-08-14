@@ -11,7 +11,7 @@ body
     display: grid;
     justify-content: center;
     align-items: center;
-    background-image: url(o.png);
+    background-image: url(assets/o.png);
     background-size:cover;
     background-position: center;
     font-family: sans-serif;
@@ -136,4 +136,8 @@ h3
 {
     text-align: center;
     color: #fff;
+}
+b
+{
+    color: #2bab0d;
 }
