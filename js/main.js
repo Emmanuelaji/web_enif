@@ -1,5 +1,5 @@
 // counting days to official Launching
-const countDownDateTime = new Date(2023, 2, -2, 0, 0).getTime();
+const countDownDateTime = new Date(2023, 4, 18, 0, 0).getTime();
 const daysValue = document.querySelector("#days");
 const hoursValue = document.querySelector("#hours");
 const minutesValue = document.querySelector("#minutes");
